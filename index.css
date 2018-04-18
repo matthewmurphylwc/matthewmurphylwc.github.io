@@ -1,0 +1,55 @@
+h1 {
+    z-index = 200;
+    color: silver;
+    align-content: center;
+    text-align: center;
+    font: 72px 'Cinzel' , serif;
+}
+p {
+    z-index = 100;
+    color: #3B3737;
+    font: 48px 'Cinzel', serif;
+    color: silver;
+}
+#bg {
+    z-index = -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+body {
+    background-image: url(bg.jpg);
+}
+.banner {
+border: 10px groove silver;
+margin-left: 103%;
+margin-top: 10%;
+z-index: 1
+}
+.quote{
+    font: 46px 'Cinzel', serif;
+    color: black;
+    background-color: silver;
+    position: relative;
+    align-items: baseline;
+    width: 75%;
+    height: 1000px;
+    border-style: double;
+    border-color: black;
+    border-width: thick;
+    text-align: center;
+}
+.linkbar {
+align-content: center;
+text-align: center;
+background-color: silver;
+border-style: double;
+border-color: black;
+border-width: thick;
+word-spacing: 5em;
+
+}
