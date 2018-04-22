@@ -23,9 +23,7 @@ margin-left: 103%;
 margin-top: 10%;
 z-index: 1
 }
-.quote{
-    font: 20px 'Arial', sans-serif;
-    color: black;
+.textbox{
     background-color: silver;
     position: relative;
     align-items: baseline;
@@ -34,7 +32,6 @@ z-index: 1
     border-style: double;
     border-color: black;
     border-width: thick;
-    text-align: left;
 }
 .linkbar {
 align-content: center;
@@ -49,13 +46,67 @@ word-spacing: 1em;
 .mainpagetext {
     font: 32px 'Arial', sans-serif;
     color: black;
-    background-color: silver;
     position: relative;
     align-items: baseline;
     width: 100%;
-    height: 1000px;
-    border-style: double;
-    border-color: black;
-    border-width: thick;
+    height: 17.5%;
     text-align: center;
+}
+.quote {
+    font: 20px 'Arial', sans-serif;
+    color: black;
+    text-align: left;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 17.5%;
+}
+.list {
+    font: 20px 'Arial', sans-serif;
+    color: black;
+    text-align: left;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 15%;
+}
+.bottom_list {
+    font: 20px 'Arial', sans-serif;
+    color: black;
+    text-align: left;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 15%;
+    margin-top: -15%;
+}
+.contact_head {
+    font: 40px 'Arial', sans-serif;
+    color: black;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+}
+.contact_main {
+    font: 32px 'Arial', sans-serif;
+    color: black;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+}
+.contact_sub {
+    font: 24px 'Arial', sans-serif;
+    color: black;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 15%;
+    text-align: center;
+}
+.fb-page {
+
 }
