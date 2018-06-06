@@ -1,0 +1,119 @@
+h1 {
+    z-index = 200;
+    color: silver;
+    align-content: center;
+    text-align: center;
+    font: 72px 'Orbitron' , sans-serif;
+}
+p {
+    z-index = 100;
+    color: #3B3737;
+    font: 48px 'Orbitron', sans-serif;
+    color: silver;
+}
+body {
+    background-image: url(portal_background.jpg);
+    background-repeat: no-repeat;
+    background-size: 117.25% 100%;
+    background-position: 50% 50%;
+}
+.banner {
+border: 10px groove silver;
+margin-left: 103%;
+margin-top: 10%;
+z-index: 1
+}
+.textbox{
+    background-color: silver;
+    position: relative;
+    align-items: baseline;
+    width: 80%;
+    height: 1000px;
+    margin-left: 10%;
+    border-style: double;
+    border-color: black;
+    border-width: thick;
+}
+.linkbar {
+    align-content: center;
+    text-align: left;
+    margin-left: 2.5%;
+    margin-top: -52.5%;
+    z-index: 1000;
+    width: 20%;
+    height: 1000px;
+    background-color: silver;
+    border-style: double;
+    border-color: black;
+    border-width: thick;
+    word-spacing: 1em;
+    font: 32px 'Orbitron', sans-serif;
+    list-style-type: none;
+}
+.mainpagetext {
+    font: 32px 'Arial', sans-serif;
+    color: black;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 17.5%;
+    text-align: center;
+}
+.quote {
+    font: 20px 'Arial', sans-serif;
+    color: black;
+    text-align: left;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 17.5%;
+}
+.list {
+    font: 20px 'Arial', sans-serif;
+    color: black;
+    text-align: left;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 15%;
+}
+.bottom_list {
+    font: 20px 'Arial', sans-serif;
+    color: black;
+    text-align: left;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 15%;
+    margin-top: -15%;
+}
+.contact_head {
+    font: 40px 'Arial', sans-serif;
+    color: black;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+}
+.contact_main {
+    font: 32px 'Arial', sans-serif;
+    color: black;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+}
+.contact_sub {
+    font: 24px 'Arial', sans-serif;
+    color: black;
+    position: relative;
+    align-items: baseline;
+    width: 100%;
+    height: 15%;
+    text-align: center;
+}
+.fb-page {
+
+}
